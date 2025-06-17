@@ -1,0 +1,15 @@
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\bin\Debug\net9.0\Usuarios.exe
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\bin\Debug\net9.0\Usuarios.deps.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\bin\Debug\net9.0\Usuarios.runtimeconfig.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\bin\Debug\net9.0\Usuarios.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\bin\Debug\net9.0\Usuarios.pdb
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfo.cs
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.sourcelink.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\refint\Usuarios.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.pdb
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\Usuarios.genruntimeconfig.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Usuarios\obj\Debug\net9.0\ref\Usuarios.dll

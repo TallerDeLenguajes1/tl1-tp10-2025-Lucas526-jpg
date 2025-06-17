@@ -1,10 +1,10 @@
 namespace EspacioUsuarios;
 public class Geo{                                                      
-    public long lat
+    public string  lat
     {
         get;set;
     }                            
-    public long lng
+    public string  lng
     {
         get;set;
     }
