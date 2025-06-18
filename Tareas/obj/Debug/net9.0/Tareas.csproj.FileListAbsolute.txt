@@ -1,0 +1,15 @@
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\bin\Debug\net9.0\Tareas.exe
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\bin\Debug\net9.0\Tareas.deps.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\bin\Debug\net9.0\Tareas.runtimeconfig.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\bin\Debug\net9.0\Tareas.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\bin\Debug\net9.0\Tareas.pdb
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfo.cs
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.sourcelink.json
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\refint\Tareas.dll
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.pdb
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
+C:\Users\Frx432\Desktop\Facultad\Taller de lenguajes 1\Semana 10\tl1-tp10-2025-Lucas526-jpg\Tareas\obj\Debug\net9.0\ref\Tareas.dll
